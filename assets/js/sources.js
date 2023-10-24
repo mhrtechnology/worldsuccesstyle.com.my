@@ -35,6 +35,7 @@ const favIcons = '<link rel="apple-touch-icon" sizes="180x180" href="/assets/fav
 <meta name="msapplication-TileImage" content="/assets/favicon/mstile-144x144.png">\
 <meta name="msapplication-config" content="/assets/favicon/browserconfig.xml">\
 <meta name="theme-color" content="#ffffff">'
+document.querySelector('head').insertAdjacentHTML('beforeend', referrers + colorScheme + favIcons)
 
 const bodyStartLinks = '<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PHLPNS8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>'
 document.querySelector('body').insertAdjacentHTML('afterbegin', bodyStartLinks)

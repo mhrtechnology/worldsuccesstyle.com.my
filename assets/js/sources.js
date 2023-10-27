@@ -37,5 +37,5 @@ const favIcons = '<link rel="apple-touch-icon" sizes="180x180" href="/assets/fav
 <meta name="theme-color" content="#ffffff">'
 document.querySelector('head').insertAdjacentHTML('beforeend', referrers + colorScheme + favIcons)
 
-const bodyStartLinks = '<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PHLPNS8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>'
-document.querySelector('body').insertAdjacentHTML('afterbegin', bodyStartLinks)
+// const bodyStartLinks = '<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PHLPNS8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>'
+// document.querySelector('body').insertAdjacentHTML('afterbegin', bodyStartLinks)

@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang='en-my' data-bs-theme='auto'>
+<html lang='en-my' data-bs-theme='light'>
 
   <head>
-    <title>WSStyle | home</title>
+    <title>WSStyle | About Us</title>
     <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap@5/dist/css/bootstrap.min.css' crossorigin='anonymous'>
     <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap-icons@1/font/bootstrap-icons.min.css' crossorigin='anonymous'>
     <script src='https://kit.fontawesome.com/221737b641.js' crossorigin='anonymous'></script>
@@ -53,39 +53,58 @@
       </nav>
     </header>
     <main class='container'>
-      <div id='homeCarousel' class='carousel slide' data-bs-ride='carousel'>
-        <div class='carousel-inner'>
-          <div class='carousel-item active'>
-            <img src='/media/img/home1.png' class='d-block w-100'>
+      <h1 class='text-center'>About Us</h1>
+      <img class='img-fluid w-25 mx-auto d-block rounded-circle bg-light-subtle bg-opacity-25' loading='lazy' src='/media/img/logo.png'>
+      <div class='card mb-3'>
+        <div class='row g-0'>
+          <div class='col-md-5'>
+            <img src='/media/img/about1.png' class='img-fluid rounded-start rounded-5'>
           </div>
-          <div class='carousel-item'>
-            <img src='/media/img/home2.png' class='d-block w-100'>
-          </div>
-          <div class='carousel-item'>
-            <img src='/media/img/home3.png' class='d-block w-100'>
-          </div>
-          <div class='carousel-item'>
-            <img src='/media/img/home4.png' class='d-block w-100'>
-          </div>
-          <div class='carousel-item'>
-            <img src='/media/img/home5.png' class='d-block w-100'>
-          </div>
-          <div class='carousel-item'>
-            <img src='/media/img/home6.png' class='d-block w-100'>
+          <div class='col-md-7'>
+            <div class='card-body'>
+              <h5 class='card-title'>Established</h5>
+              <p class='card-text'><span class='fw-bold'>&#39;Worldsuccesstyle Sdn Bhd&#39;</span> also known as <span class='fw-bold'>&#39;Worldsuccesstyle Enterprise&#39;</span> was established on October 2015 registered at No 32-01, Jalan Saujana KLIA 1/A, Taman Saujana KLIA, 43900 Sepang, Selangor.</p>
+            </div>
           </div>
         </div>
       </div>
-      <h1 class='text-center'>Laundry Distributor</h1>
-      <p class='text-center'>We envision to being one of the largest self-service laundromat provider in South East Asia that provide the best laundry experience possible to our laundromat owners, whilst protecting the environment.</p>
-      <p class='text-center'>Laundry is one of what we do, and we do it better than anyone.</p>
-      <div class='row'>
-        <h2 class='text-center'>Authorized Dealer in South East Asia</h2>
-        <div class='btn-group' role='group'>
-          <button class='btn btn-outline-light rounded-3' type='button'><img class='object-fit-fill w-75' src='/media/img/primus.png'></button>
-          <button class='btn btn-outline-light rounded-3' type='button'><img class='object-fit-fill w-75' src='/media/img/tosei.png'></button>
-          <button class='btn btn-outline-light rounded-3' type='button'><img class='object-fit-fill w-50' src='/media/img/lg.png'></button>
-          <button class='btn btn-outline-light rounded-3' type='button'><img class='object-fit-fill w-75' src='/media/img/speedqueen.png'></button>
-          <button class='btn btn-outline-light rounded-3' type='button'><img class='object-fit-fill w-75' src='/media/img/ipso.png'></button>
+      <div class='card mb-3'>
+        <div class='row g-0'>
+          <div class='col-md-7'>
+            <div class='card-body text-end'>
+              <h5 class='card-title'>Services</h5>
+              <p class='card-text'><span class='fw-bold'>&#39;Worldsuccesstyle Sdn Bhd&#39;</span> is a licensed company provided Electrical service, Plumbing, Renovation, Networking cabling, Consultant & all Engineering services around Malaysia & Brunei.</p>
+            </div>
+          </div>
+          <div class='col-md-5'>
+            <img src='/media/img/about2.png' class='img-fluid rounded-end rounded-5'>
+          </div>
+        </div>
+      </div>
+      <div class='card mb-3'>
+        <div class='row g-0'>
+          <div class='col-md-5'>
+            <img src='/media/img/about3.png' class='img-fluid rounded-start rounded-5'>
+          </div>
+          <div class='col-md-7'>
+            <div class='card-body'>
+              <h5 class='card-title'>What We Do</h5>
+              <p class='card-text'><span class='fw-bold'>&#39;Worldsuccesstyle Sdn Bhd&#39;</span> are specialist in self service laundry setup, maintaining and advisory client to start their own self service laundry.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class='card mb-3'>
+        <div class='row g-0'>
+          <div class='col-md-7'>
+            <div class='card-body text-end'>
+              <h5 class='card-title'>Authorised Dealer</h5>
+              <p class='card-text'><span class='fw-bold'>&#39;Worldsuccesstyle Sdn Bhd&#39;</span> are one of Authorised Dealer for Speedqueen, Heubsch, IPSO, Tosei, LG, Fagor, Primus, Octopus & also other brands.</p>
+            </div>
+          </div>
+          <div class='col-md-5'>
+            <img src='/media/img/about4.png' class='img-fluid rounded-end rounded-5'>
+          </div>
         </div>
       </div>
     </main>
@@ -93,7 +112,7 @@
       <div class='container-fluid'>
         <div class='row p-3 d-flex align-items-center'>
           <div class='col-md-4 py-2 d-flex justify-content-evenly'>
-            <p>Contact: <a class='btn btn-link' type='button' href='mailto:info@worldsuccesstyle.com.my'>info@worldsuccesstyle.com.my</a></p>
+            <p>Contact: <a class='btn btn-link' type='button'  href='mailto:info@worldsuccesstyle.com.my'>info@worldsuccesstyle.com.my</a></p>
           </div>
           <div class='col-md-8'>
             <p class='text-md-end font-monospace user-select-none text-break m-0'><a class='text-reset text-decoration-none pe-auto' href='/policy'>Policy</a><span class='text-body-tertiary'><?php

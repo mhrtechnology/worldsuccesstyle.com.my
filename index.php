@@ -32,7 +32,7 @@
     <header class='sticky-top'>
       <nav class='navbar navbar-expand-lg bg-body-tertiary py-0'>
         <div class='container'>
-          <a class='navbar-brand' href=''><img class='img-fluid d-inline-block' src='media/img/logo.png' width='50px' alt='WORLDSUCCESSTYLE S/B'></a>
+          <a class='navbar-brand' href='/'><img class='img-fluid d-inline-block' src='media/img/logo.png' width='50px' alt='WORLDSUCCESSTYLE S/B'></a>
           <span class='text-center'>Authorised Distributor of: <img src='media/img/primus.png' width='60px'></span>
           <!-- <div class='dropdown'>
             <button class='btn nav-link d-flex align-items-center dropdown-toggle' id='theme' type='button' aria-expanded='false' data-bs-toggle='dropdown' data-bs-display='static' aria-label='Toggle theme (auto)'><span class='ms-2' id='theme-text'>theme</span></button>

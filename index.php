@@ -32,8 +32,8 @@
     <header class='sticky-top'>
       <nav class='navbar navbar-expand-lg bg-body-tertiary py-0'>
         <div class='container'>
-          <a class='navbar-brand' href='/'><img class='img-fluid d-inline-block' src='/media/img/logo.png' width='50px' alt='WORLDSUCCESSTYLE S/B'></a>
-          <span class='text-center'>Authorised Distributor of: <img src='/media/img/primus.png' width='60px'></span>
+          <a class='navbar-brand' href=''><img class='img-fluid d-inline-block' src='media/img/logo.png' width='50px' alt='WORLDSUCCESSTYLE S/B'></a>
+          <span class='text-center'>Authorised Distributor of: <img src='media/img/primus.png' width='60px'></span>
           <!-- <div class='dropdown'>
             <button class='btn nav-link d-flex align-items-center dropdown-toggle' id='theme' type='button' aria-expanded='false' data-bs-toggle='dropdown' data-bs-display='static' aria-label='Toggle theme (auto)'><span class='ms-2' id='theme-text'>theme</span></button>
             <ul class='dropdown-menu bg-body-tertiary border-0' aria-labelledby='theme-text'>
@@ -45,9 +45,9 @@
           <button class='navbar-toggler border-0' type='button' data-bs-toggle='collapse' data-bs-target='#navbarNav' aria-controls='navbarNav' aria-expanded='false' aria-label='Toggle navigation'>menu</button>
           <div class='collapse navbar-collapse text-end' id='navbarNav'>
             <ul class='nav navbar-nav nav-pills text-lg-center d-flex ms-auto'>
-              <li class='nav-item'><a class='nav-link' href='/about'>About</a></li>
-              <li class='nav-item'><a class='nav-link' href='/products'>Products</a></li>
-              <li class='nav-item'><a class='nav-link disabled' href='/contact'>Contact</a></li>
+              <li class='nav-item'><a class='nav-link' href='about'>About</a></li>
+              <li class='nav-item'><a class='nav-link' href='products'>Products</a></li>
+              <li class='nav-item'><a class='nav-link disabled' href='contact'>Contact</a></li>
             </ul>
           </div>
         </div>
@@ -55,12 +55,12 @@
     </header>
     <div id='homeCarousel' class='carousel slide' data-bs-ride='carousel'>
       <div class='carousel-inner ratio align-self-center' style='--bs-aspect-ratio: 25%;'>
-          <div class='carousel-item'><img src='/media/img/home1.png' class='d-block w-100'></div>
-          <div class='carousel-item'><img src='/media/img/home2.png' class='d-block w-100'></div>
-          <div class='carousel-item'><img src='/media/img/home3.png' class='d-block w-100'></div>
-          <div class='carousel-item active' data-bs-interval='10000'><img src='/media/img/home4.png' class='d-block w-100'></div>
-          <div class='carousel-item' data-bs-interval='10000'><img src='/media/img/about3.png' class='d-block w-100'></div>
-          <div class='carousel-item'><img src='/media/img/home5.png' class='d-block w-100'></div>
+          <div class='carousel-item'><img src='media/img/home1.png' class='d-block w-100'></div>
+          <div class='carousel-item'><img src='media/img/home2.png' class='d-block w-100'></div>
+          <div class='carousel-item'><img src='media/img/home3.png' class='d-block w-100'></div>
+          <div class='carousel-item active' data-bs-interval='10000'><img src='media/img/home4.png' class='d-block w-100'></div>
+          <div class='carousel-item' data-bs-interval='10000'><img src='media/img/about3.png' class='d-block w-100'></div>
+          <div class='carousel-item'><img src='media/img/home5.png' class='d-block w-100'></div>
         </div>
       </div>
       <main class='container'>
@@ -70,11 +70,11 @@
       <div class='row'>
         <h2 class='text-center'>Authorized Distributor in South East Asia</h2>
         <div class='btn-group' role='group'>
-          <button class='btn btn-outline-light rounded-3' type='button'><img class='object-fit-cover w-75' src='/media/img/primus.png'></button>
-          <button class='btn btn-outline-light rounded-3' type='button'><img class='object-fit-cover w-75' src='/media/img/tosei.png'></button>
-          <button class='btn btn-outline-light rounded-3' type='button'><img class='object-fit-cover w-50' src='/media/img/lg.png'></button>
-          <button class='btn btn-outline-light rounded-3' type='button'><img class='object-fit-cover w-75' src='/media/img/speedqueen.png'></button>
-          <button class='btn btn-outline-light rounded-3' type='button'><img class='object-fit-cover w-75' src='/media/img/ipso.png'></button>
+          <button class='btn btn-outline-light rounded-3' type='button'><img class='object-fit-cover w-25' src='media/img/primus.png'></button>
+          <!-- <button class='btn btn-outline-light rounded-3' type='button'><img class='object-fit-cover w-75' src='media/img/tosei.png'></button>
+          <button class='btn btn-outline-light rounded-3' type='button'><img class='object-fit-cover w-50' src='media/img/lg.png'></button>
+          <button class='btn btn-outline-light rounded-3' type='button'><img class='object-fit-cover w-75' src='media/img/speedqueen.png'></button>
+          <button class='btn btn-outline-light rounded-3' type='button'><img class='object-fit-cover w-75' src='media/img/ipso.png'></button> -->
         </div>
       </div>
       <div class='row'>
@@ -147,7 +147,7 @@
             <p>Contact: <a class='text-reset text-decoration-none' href='mailto:info@worldsuccesstyle.com.my'><i class='bi-envelope'></i> info@worldsuccesstyle.com.my</a></p>
           </div>
           <div class='col-md-8'>
-            <p class='text-md-end font-monospace user-select-none text-break m-0'><a class='text-reset text-decoration-none pe-auto' href='/policy'>Policy</a><span class='text-body-tertiary'><?php
+            <p class='text-md-end font-monospace user-select-none text-break m-0'><a class='text-reset text-decoration-none pe-auto' href='policy'>Policy</a><span class='text-body-tertiary'><?php
               $dtfmt = datefmt_create('en_MY', IntlDateFormatter::FULL, IntlDateFormatter::FULL, 'Asia/Kuala_Lumpur', IntlDateFormatter::GREGORIAN, 'EEE, d MMM y, h:mma z');
               function scan_dir($dir) {
                 $files = array();
@@ -174,9 +174,9 @@
     <button id='scrollToTop' class='btn position-fixed bottom-0 start-0'><i class='bi-arrow-up-square fs-1'></i></button>
     <script src='https://cdn.jsdelivr.net/npm/bootstrap@5/dist/js/bootstrap.bundle.min.js' crossorigin='anonymous'></script>
     <script src='https://cdn.jsdelivr.net/npm/jquery@3/dist/jquery.min.js' crossorigin='anonymous'></script>
-    <script src='/assets/js/sources.js'></script>
-    <script src='/assets/js/stt.js'></script>
-    <!-- <script src='/assets/js/theme.js'></script> -->
+    <script src='assets/js/sources.js'></script>
+    <script src='assets/js/stt.js'></script>
+    <!-- <script src='assets/js/theme.js'></script> -->
   </body>
 
 </html>

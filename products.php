@@ -118,7 +118,7 @@
                     <img class='col img-fluid' src='media/img/Washer+Ready-1920w.webp'>
                     <img class='col img-fluid' src='media/img/XControl+Status-1920w.webp'>
                   </div>
-                  <a class="btn btn-primary d-block" type='button' href='media/pdf/Primus_Washer-PC20-60.pdf'>Download Brochure</a>
+                  <a class='btn btn-primary d-block' type='button' href='media/pdf/Primus_Washer-PC20-60.pdf'>Download Brochure</a>
                 </div>
               </div>
             </div>
@@ -158,7 +158,7 @@
                     <li>Over-the-air updates</li>
                   </ul>
                   </div>
-                  <a class="btn btn-primary d-block" type='button' href='media/pdf/Primus_Dryer-DX13-24.pdf'>Download Brochure</a>
+                  <a class='btn btn-primary d-block' type='button' href='media/pdf/Primus_Dryer-DX13-24.pdf'>Download Brochure</a>
                 </div>
               </div>
             </div>
@@ -201,7 +201,7 @@
                     <img class='col img-fluid' src='media/img/Washer+Ready-1920w.webp'>
                     <img class='col img-fluid' src='media/img/XControl+Status-1920w.webp'>
                   </div>
-                  <a class="btn btn-primary d-block" type='button' href='media/pdf/Primus_Stack-Washer-Dryer-PSG30-50.pdf'>Download Brochure</a>
+                  <a class='btn btn-primary d-block' type='button' href='media/pdf/Primus_Stack-Washer-Dryer-PSG30-50.pdf'>Download Brochure</a>
                 </div>
               </div>
             </div>
@@ -238,7 +238,7 @@
                   </ul>
                   <h6>Platform: XControl Flex / XControl Flex Plus</h6>
                   <ul>
-                    <li>5" on stack tumbler dryers, full color, touch screen display</li>
+                    <li>5' on stack tumbler dryers, full color, touch screen display</li>
                     <li>Clear step-by-step instructions available for easier operation</li>
                     <li>Machine programming & performance data accessible through cloud. Remotely access to live machine data on mobile device</li>
                     <li>VEND:<ul>
@@ -249,7 +249,7 @@
                     <li>Over-the-air updates</li>
                   </ul>
                   </div>
-                  <a class="btn btn-primary d-block" type='button' href='media/pdf/Primus_Dryer-DX13-24.pdf'>Download Brochure</a>
+                  <a class='btn btn-primary d-block' type='button' href='media/pdf/Primus_Dryer-DX13-24.pdf'>Download Brochure</a>
                 </div>
               </div>
             </div>

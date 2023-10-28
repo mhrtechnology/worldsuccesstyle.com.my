@@ -108,6 +108,7 @@
           </div>
         </div>
       </div>
+      <a class='btn btn-primary d-block my-3' type='button' href='media/pdf/WSS-Profile.pdf'>View our profile in details</a>
     </main>
     <footer class='footer page-footer font-small bg-body-tertiary text-center'>
       <div class='container-fluid'>

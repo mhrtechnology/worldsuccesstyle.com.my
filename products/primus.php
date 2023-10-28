@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang='en-my' data-bs-theme='light'>
+<html lang='en-my' data-bs-theme='auto'>
 
   <head>
-    <title>WSStyle | About Us</title>
+    <title>WSStyle | PRIMUS</title>
     <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap@5/dist/css/bootstrap.min.css' crossorigin='anonymous'>
     <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap-icons@1/font/bootstrap-icons.min.css' crossorigin='anonymous'>
     <script src='https://kit.fontawesome.com/221737b641.js' crossorigin='anonymous'></script>
@@ -54,60 +54,7 @@
       </nav>
     </header>
     <main class='container'>
-      <h1 class='text-center'>About Us</h1>
-      <img class='img-fluid w-25 mx-auto d-block rounded-circle bg-light-subtle bg-opacity-25' loading='lazy' src='/media/img/logo.png'>
-      <div class='card mb-3'>
-        <div class='row g-0'>
-          <div class='col-md-5'>
-            <img src='/media/img/about1.png' class='img-fluid rounded-end-4'>
-          </div>
-          <div class='col-md-7 d-flex align-items-center'>
-            <div class='card-body text-center text-md-start'>
-              <h5 class='card-title'>Established</h5>
-              <p class='card-text'><span class='fw-bold'>&#39;Worldsuccesstyle Sdn Bhd&#39;</span> also known as <span class='fw-bold'>&#39;Worldsuccesstyle Enterprise&#39;</span> was established on October 2015 registered at No. 32-01, Jalan Saujana KLIA 1/A, Taman Saujana KLIA, 43900 Sepang, Selangor Darul Ehsan, Malaysia.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class='card mb-3'>
-        <div class='row g-0'>
-          <div class='col-md-7 d-flex align-items-center'>
-            <div class='card-body text-center text-md-end'>
-              <h5 class='card-title'>Services</h5>
-              <p class='card-text'><span class='fw-bold'>&#39;Worldsuccesstyle Sdn Bhd&#39;</span> is a licensed company that provide Electrical services, Plumbing, Renovation, Network cabling, Consultant and any Engineering services around Malaysia, Brunei, Singapore, Indonesia, and Thailand.</p>
-            </div>
-          </div>
-          <div class='col-md-5'>
-            <img src='/media/img/about2.png' class='img-fluid rounded-start-4'>
-          </div>
-        </div>
-      </div>
-      <div class='card mb-3'>
-        <div class='row g-0'>
-          <div class='col-md-5'>
-            <img src='/media/img/about3.png' class='img-fluid rounded-end-4'>
-          </div>
-          <div class='col-md-7 d-flex align-items-center'>
-            <div class='card-body text-center text-md-start'>
-              <h5 class='card-title'>What We Do</h5>
-              <p class='card-text'><span class='fw-bold'>&#39;Worldsuccesstyle Sdn Bhd&#39;</span> are specialist in self service laundry setup, maintaining, and advisory client to start their own self service laundry.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class='card mb-3'>
-        <div class='row g-0'>
-          <div class='col-md-7 d-flex align-items-center'>
-            <div class='card-body text-center text-md-end'>
-              <h5 class='card-title'>Authorised Distributor</h5>
-              <p class='card-text'><span class='fw-bold'>&#39;Worldsuccesstyle Sdn Bhd&#39;</span> are one of Authorised Distributor for<br>Primus, TOSEI, Speedqueen, Heubsch, IPSO, LG, Fagor, Octopus, and many other brands.</p>
-            </div>
-          </div>
-          <div class='col-md-5'>
-            <img src='/media/img/about4.png' class='img-fluid rounded-start-4'>
-          </div>
-        </div>
-      </div>
+      <p class='text-center'>Page under construction. We will be back soon.</p>
     </main>
     <footer class='footer page-footer font-small bg-body-tertiary text-center'>
       <div class='container-fluid'>

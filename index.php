@@ -88,7 +88,7 @@
             <div class='col-md-7 d-flex align-items-center text-center text-md-start'>
               <div class='card-body'>
                 <h5 class='card-title'>New XControl FLEX Platform</h5>
-                <p class='card-text'>Primus’ latest control, XControl FLEX platform, features an enhanced customer experience and brand-new functionalities for connectivity and data accessibility available anywhere, everywhere, in the cloud</p>
+                <p class='card-text'>Primus latest control, XControl FLEX platform, features an enhanced customer experience and brand-new functionalities for connectivity and data accessibility available anywhere, everywhere, in the cloud</p>
               </div>
             </div>
           </div>

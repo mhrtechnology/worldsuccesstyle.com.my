@@ -64,7 +64,7 @@
           <div class='col-md-7 d-flex align-items-center'>
             <div class='card-body text-center text-md-start'>
               <h5 class='card-title'>Established</h5>
-              <p class='card-text'><span class='fw-bold'>&#39;Worldsuccesstyle Sdn Bhd&#39;</span> also known as <span class='fw-bold'>&#39;Worldsuccesstyle Enterprise&#39;</span> was established on October 2015 registered at No. 32-01, Jalan Saujana KLIA 1/A, Taman Saujana KLIA, 43900 Sepang, Selangor Darul Ehsan, Malaysia.</p>
+              <p class='card-text'><span class='fw-bold'>&#39;WORLDSUCCESSTYLE SDN BHD&#39;</span> also known as <span class='fw-bold'>&#39;WORLDSUCCESSTYLE ENTERPRISE&#39;</span> was established on October 2015 registered at No. 32-01, Jalan Saujana KLIA 1/A, Taman Saujana KLIA, 43900 Sepang, Selangor Darul Ehsan, Malaysia.</p>
             </div>
           </div>
         </div>
@@ -74,7 +74,7 @@
           <div class='col-md-7 d-flex align-items-center'>
             <div class='card-body text-center text-md-end'>
               <h5 class='card-title'>Services</h5>
-              <p class='card-text'><span class='fw-bold'>&#39;Worldsuccesstyle Sdn Bhd&#39;</span> is a licensed company that provide Electrical services, Plumbing, Renovation, Network cabling, Consultant and any Engineering services around Malaysia, Brunei, Singapore, Indonesia, and Thailand.</p>
+              <p class='card-text'><span class='fw-bold'>&#39;WORLDSUCCESSTYLE SDN BHD&#39;</span> is a licensed company that provide electrical services, plumbing, renovation, network cabling, consultant and any engineering services around Malaysia, Brunei, Singapore, Indonesia, and Thailand.</p>
             </div>
           </div>
           <div class='col-md-5'>
@@ -90,7 +90,7 @@
           <div class='col-md-7 d-flex align-items-center'>
             <div class='card-body text-center text-md-start'>
               <h5 class='card-title'>What We Do</h5>
-              <p class='card-text'><span class='fw-bold'>&#39;Worldsuccesstyle Sdn Bhd&#39;</span> are specialist in self service laundry setup, maintaining, and advisory client to start their own self service laundry.</p>
+              <p class='card-text'><span class='fw-bold'>&#39;WORLDSUCCESSTYLE SDN BHD&#39;</span> are specialist in self service laundry setup, maintaining, and advisory client to start their own self service laundry.</p>
             </div>
           </div>
         </div>
@@ -100,7 +100,7 @@
           <div class='col-md-7 d-flex align-items-center'>
             <div class='card-body text-center text-md-end'>
               <h5 class='card-title'>Authorised Distributor</h5>
-              <p class='card-text'><span class='fw-bold'>&#39;Worldsuccesstyle Sdn Bhd&#39;</span> are one of Authorised Distributor for<br>Primus, TOSEI, Speedqueen, Heubsch, IPSO, LG, Fagor, Octopus, and many other brands.</p>
+              <p class='card-text'><span class='fw-bold'>&#39;WORLDSUCCESSTYLE SDN BHD&#39;</span> are one of Authorised Distributor for<br>Primus, TOSEI, Speedqueen, Heubsch, IPSO, LG, Fagor, Octopus, and many other brands.</p>
             </div>
           </div>
           <div class='col-md-5'>

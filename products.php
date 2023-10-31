@@ -85,7 +85,7 @@
                   <div class='card-text'><h6>Features</h6>
                   <ul>
                     <li>Electrical and Gas heating</li>
-                    <li>Large door opening for easy loading and unloading (Ø 68cm)</li>
+                    <li>Large door opening for easy loading and unloading (&Oslash; 68cm)</li>
                     <li>Galvanized drum</li>
                     <li>Axial airflow<ul>
                       <li>Drum perforations only at the front and back</li>
@@ -103,7 +103,7 @@
                   <h6>Platform: XControl Flex / XControl Flex Plus</h6>
                   <ul>
                     <li>Available with XControl FLEX touch control for Vend</li>
-                    <li>7‘‘ (5‘‘ on stack tumbler dryers), full color, touch screen display</li>
+                    <li>7&Prime; (5&Prime; on stack tumbler dryers), full color, touch screen display</li>
                     <li>Clear step-by-step instructions available for easier operation</li>
                     <li>Machine programming & performance data accessible through cloud. Remotely access to live machine data on mobile device</li>
                     <li>VEND:<ul>
@@ -186,7 +186,7 @@
                   <h6>Platform: XControl Flex</h6>
                   <ul>
                     <li>Available with XControl FLEX</li>
-                    <li>7‘‘ (5‘‘ on stack tumbler dryers), full color, touch screen display</li>
+                    <li>7&Prime; (5&Prime; on stack tumbler dryers), full color, touch screen display</li>
                     <li>Clear step-by-step instructions available in 34 languages</li>
                     <li>Machine programming & performance data accessible through cloud. Remotely access to live machine data on mobile device</li>
                     <li>VEND:<ul>
@@ -219,7 +219,7 @@
                   <ul>
                     <li>Double capacity on the same floor space</li>
                     <li>Gas and Electrical heating (DX13/13)</li>
-                    <li>Large door opening for easy loading and unloading (DX 13/13 Ø 57cm, DX 20/20 Ø 68cm)</li>
+                    <li>Large door opening for easy loading and unloading (DX 13/13 &Oslash; 57cm, DX 20/20 &Oslash; 68cm)</li>
                     <li>Galvanized drum</li>
                     <li>Axial airflow<ul>
                       <li>Drum perforations only at the front and back</li>
@@ -238,7 +238,7 @@
                   </ul>
                   <h6>Platform: XControl Flex / XControl Flex Plus</h6>
                   <ul>
-                    <li>5' on stack tumbler dryers, full color, touch screen display</li>
+                    <li>5&Prime; on stack tumbler dryers, full color, touch screen display</li>
                     <li>Clear step-by-step instructions available for easier operation</li>
                     <li>Machine programming & performance data accessible through cloud. Remotely access to live machine data on mobile device</li>
                     <li>VEND:<ul>

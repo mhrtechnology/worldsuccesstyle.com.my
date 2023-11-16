@@ -47,6 +47,7 @@
             <ul class='nav navbar-nav nav-pills text-lg-center d-flex ms-auto'>
               <li class='nav-item'><a class='nav-link' href='about'>About</a></li>
               <li class='nav-item'><a class='nav-link' href='products'>Products</a></li>
+              <li class='nav-item'><a class='nav-link' href='package'>Packages</a></li>
               <li class='nav-item'><a class='nav-link' href='https://api.mhrtech.my/webhook/4c8b1987-0be2-4794-b038-eded0293eedc/n8n-form' target='_blank'>Contact</a></li>
             </ul>
           </div>
@@ -54,13 +55,15 @@
       </nav>
     </header>
     <div id='homeCarousel' class='carousel slide' data-bs-ride='carousel'>
-      <div class='carousel-inner ratio align-self-center' style='--bs-aspect-ratio: 25%;'>
-          <div class='carousel-item'><img src='media/img/home1.png' class='d-block w-100'></div>
+      <div class='carousel-inner ratio ratio-21x9'>
+          <!-- <div class='carousel-item'><img src='media/img/home1.png' class='d-block w-100'></div>
           <div class='carousel-item'><img src='media/img/home2.png' class='d-block w-100'></div>
-          <div class='carousel-item'><img src='media/img/home3.png' class='d-block w-100'></div>
-          <div class='carousel-item active' data-bs-interval='10000'><img src='media/img/home4.png' class='d-block w-100'></div>
-          <div class='carousel-item' data-bs-interval='10000'><img src='media/img/about3.png' class='d-block w-100'></div>
-          <div class='carousel-item'><img src='media/img/home5.png' class='d-block w-100'></div>
+          <div class='carousel-item'><img src='media/img/home3.png' class='d-block w-100'></div> -->
+          <!-- <div class='carousel-item'><img src='media/img/home5.png' class='d-block w-100'></div> -->
+          <div class='carousel-item active' data-bs-interval='5000'><img src='media/img/home4.png' class='d-block w-100'></div>
+          <div class='carousel-item' data-bs-interval='5000'><img src='media/img/about3.png' class='d-block w-100'></div>
+          <div class='carousel-item'><img src='media/img/QT_Enviro_Front_Desk-1920w.webp' class='d-block w-100'></div>
+          <div class='carousel-item'><img src='media/img/UUM-INASIS+BANK+MUAMALAT-1920w.webp' class='d-block w-100'></div>
         </div>
       </div>
       <main class='container'>

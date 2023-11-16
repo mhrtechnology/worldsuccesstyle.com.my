@@ -2,7 +2,7 @@
 <html lang='en-my' data-bs-theme='auto'>
 
   <head>
-    <title>WSStyle | products</title>
+    <title>WSStyle | Products</title>
     <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap@5/dist/css/bootstrap.min.css' crossorigin='anonymous'>
     <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap-icons@1/font/bootstrap-icons.min.css' crossorigin='anonymous'>
     <script src='https://kit.fontawesome.com/221737b641.js' crossorigin='anonymous'></script>
@@ -46,7 +46,8 @@
           <div class='collapse navbar-collapse text-end' id='navbarNav'>
             <ul class='nav navbar-nav nav-pills text-lg-center d-flex ms-auto'>
               <li class='nav-item'><a class='nav-link' href='about'>About</a></li>
-              <li class='nav-item'><a class='nav-link' href='products'>Products</a></li>
+              <li class='nav-item'><a class='nav-link active' href='products'>Products</a></li>
+              <li class='nav-item'><a class='nav-link' href='package'>Packages</a></li>
               <li class='nav-item'><a class='nav-link' href='https://api.mhrtech.my/webhook/4c8b1987-0be2-4794-b038-eded0293eedc/n8n-form' target='_blank'>Contact</a></li>
             </ul>
           </div>
@@ -58,10 +59,6 @@
         <h1 class='text-center'>Brands</h1>
         <div class='btn-group' role='group'>
           <a class='btn rounded-5 my-auto active' type='button' href='#'><img class='object-fit-fill w-25' src='media/img/primus.png'><span class='position-absolute top-0 start-50 translate-middle badge rounded-pill bg-success'>Best Selling</span></a>
-          <!-- <a class='btn rounded-5 my-auto' type='button' href='products/tosei'><img class='object-fit-fill w-100' src='media/img/tosei.png'></a>
-          <a class='btn rounded-5 my-auto' type='button' href='products/lg'><img class='object-fit-fill w-50' src='media/img/lg.png'></a>
-          <a class='btn rounded-5 my-auto' type='button' href='products/speedqueen'><img class='object-fit-fill w-75' src='media/img/speedqueen.png'></a>
-          <a class='btn rounded-5 my-auto' type='button' href='products/ipso'><img class='object-fit-fill w-100' src='media/img/ipso.png'></a> -->
         </div>
       </div>
       <hr>
@@ -82,37 +79,40 @@
               <div class='col-md-8'>
                 <div class='card-body'>
                   <h4 class='card-title text-center'>PRIMUS PC20 - PC60</h4>
-                  <div class='card-text'><h6>Features</h6>
-                  <ul>
-                    <li>Electrical and Gas heating</li>
-                    <li>Large door opening for easy loading and unloading (&Oslash; 68cm)</li>
-                    <li>Galvanized drum</li>
-                    <li>Axial airflow<ul>
-                      <li>Drum perforations only at the front and back</li>
-                      <li>Maximum airflow, less energy consumption and short drying times</li>
-                    </ul></li>
-                    <li>Reversing drum: prevents linen from tangling</li>
-                    <li>Stainless steel drum</li>
-                    <li>Grey painted side panels</li>
-                    <li>Coin operated version</li>
-                    <li>SafeTech™ Fire Suppression System as an option<ul>
-                      <li>Prevents early laundry fire by constantly monitoring the temperature in the drum</li>
-                      <li>In case of excessive temperature, linen is sprayed with water</li>
-                    </ul></li>
-                  </ul>
-                  <h6>Platform: XControl Flex / XControl Flex Plus</h6>
-                  <ul>
-                    <li>Available with XControl FLEX touch control for Vend</li>
-                    <li>7&Prime; (5&Prime; on stack tumbler dryers), full color, touch screen display</li>
-                    <li>Clear step-by-step instructions available for easier operation</li>
-                    <li>Machine programming & performance data accessible through cloud. Remotely access to live machine data on mobile device</li>
-                    <li>VEND:<ul>
-                      <li>5 standard dry programmes (High, Medium, Low, Delicate, No Heat)</li>
-                      <li>11 easy-to-use cycle modifier</li>
-                    </ul></li>
-                    <li>Count up timer</li>
-                    <li>Over-the-air updates</li>
-                  </ul>
+                  <div class='card-text'>
+                    <h6>Features</h6>
+                    <ul>
+                      <li>Hard-mount, medium spin, up to 200 G-factor</li>
+                      <li>Stainless steel front panel & door, skin plate side panels</li>
+                      <li>Robotically welded frame</li>
+                      <li>Stainless steel drum and tub</li>
+                      <li>4-compartment soap box</li>
+                      <li>One piece cast bearing housing: long life span</li>
+                      <li>Heavy duty variable speed motor: smooth start and stop</li>
+                      <li>Patented “Water Guardian”: detects leaking valves</li>
+                      <li>Durable door latch and lock mechanism</li>
+                      <li>Large door opening: easy loading & unloading</li>
+                    </ul>
+                    <h6>Options</h6>
+                    <ul>
+                      <li>Stainless steel side panels</li>
+                      <li>Liquid soap pumps</li>
+                    </ul>
+                    <h6>Platform: XControl Flex / XControl Flex Plus</h6>
+                    <ul>
+                      <li>7&Prime;, full color, touchscreen display</li>
+                      <span>Easy to read from any angle and customizable display</span>
+                      <li>Intuitive user-friendly interface</li>
+                      <span>Offering all data at a glance. This best-in-class interface offers an excellent operator guidance</span>
+                      <li>Clear step-by-step instructions available in 34 languages.</li>
+                      <span>Simplifies operation for users, any selection is no more than two touches away</span>
+                      <li>Automated service reminders for maintenance</li>
+                      <li>Delayed start</li>
+                      <li>20 standard wash cycles & 8 easy to understand cycle modifiers</li>
+                      <li>Wash cycles can be customized for specific needs</li>
+                      <li>Machine programming & performance data accessible through cloud.</li>
+                      <span>Allows owners to remotely access live machine data on mobile device</span>
+                    </ul>
                   </div>
                   <div class='row'>
                     <img class='col img-fluid' src='media/img/Washer+Ready-1920w.webp'>
@@ -127,7 +127,7 @@
           <div class='card mb-3'>
             <div class='row g-0'>
               <div class='col-md-4 d-flex align-items-center'>
-                <img src='media/img/Primus+Dryer-634w.webp' class='img-fluid rounded-start' alt='...'>
+                <img src='media/img/primus-dryer-dx13-24-xcontrol-flex.png' class='img-fluid rounded-start' alt='...'>
               </div>
               <div class='col-md-8 d-flex align-items-center'>
                 <div class='card-body'>
@@ -210,7 +210,7 @@
           <div class='card mb-3'>
             <div class='row g-0'>
               <div class='col-md-4 d-flex align-items-center'>
-                <img src='media/img/Primus+Stack+Tumbler+Dryer-634w.webp' class='img-fluid rounded-start' alt='...'>
+                <img src='media/img/primus-dryer-dx1313-2020-xcontrol-flex.png' class='img-fluid rounded-start' alt='...'>
               </div>
               <div class='col-md-8 d-flex align-items-center'>
                 <div class='card-body'>

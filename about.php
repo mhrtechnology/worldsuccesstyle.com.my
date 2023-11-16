@@ -45,8 +45,9 @@
           <button class='navbar-toggler border-0' type='button' data-bs-toggle='collapse' data-bs-target='#navbarNav' aria-controls='navbarNav' aria-expanded='false' aria-label='Toggle navigation'>menu</button>
           <div class='collapse navbar-collapse text-end' id='navbarNav'>
             <ul class='nav navbar-nav nav-pills text-lg-center d-flex ms-auto'>
-              <li class='nav-item'><a class='nav-link' href='about'>About</a></li>
+              <li class='nav-item'><a class='nav-link active' href='about'>About</a></li>
               <li class='nav-item'><a class='nav-link' href='products'>Products</a></li>
+              <li class='nav-item'><a class='nav-link' href='package'>Packages</a></li>
               <li class='nav-item'><a class='nav-link' href='https://api.mhrtech.my/webhook/4c8b1987-0be2-4794-b038-eded0293eedc/n8n-form' target='_blank'>Contact</a></li>
             </ul>
           </div>

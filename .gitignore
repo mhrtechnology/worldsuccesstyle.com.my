@@ -4,3 +4,4 @@ ads.txt
 *.config.js
 robots.txt
 *.code-workspace
+.php_tmp

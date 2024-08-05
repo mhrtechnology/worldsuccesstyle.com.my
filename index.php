@@ -153,7 +153,7 @@
             <p class='text-md-end font-monospace user-select-none text-break m-0'><a class='text-reset text-decoration-none pe-auto' href='policy'>Policy</a><span class='text-body-tertiary'><?php
               $dtfmt = datefmt_create('en_MY', IntlDateFormatter::FULL, IntlDateFormatter::FULL, 'Asia/Kuala_Lumpur', IntlDateFormatter::GREGORIAN, 'EEE, d MMM y, h:mma z');
               function scan_dir($dir) {
-                $files = array();
+                $files = [];
                 foreach (scandir($dir) as $file) {
                   $filemtime = filemtime($dir . '/' . $file);
                   $files[$file] = $filemtime;

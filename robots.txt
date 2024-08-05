@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: /assets/
-Sitemap: //worldsuccesstyle.com.my/sitemap.xml

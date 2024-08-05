@@ -48,7 +48,7 @@
               <li class='nav-item'><a class='nav-link' href='about'>About</a></li>
               <li class='nav-item'><a class='nav-link' href='products'>Products</a></li>
               <li class='nav-item'><a class='nav-link' href='package'>Packages</a></li>
-              <li class='nav-item'><a class='nav-link' href='https://api.mhrtech.my/webhook/4c8b1987-0be2-4794-b038-eded0293eedc/n8n-form' target='_blank'>Contact</a></li>
+              <li class='nav-item'><a class='nav-link' href='https://api.mhrtech.my/webhook/ctc-wss/n8n-form' target='_blank' rel='noopener'>Contact</a></li>
             </ul>
           </div>
         </div>
@@ -74,10 +74,10 @@
         <h2 class='text-center'>Authorized Distributor in South East Asia</h2>
         <div class='btn-group' role='group'>
           <button class='btn btn-outline-light rounded-3' type='button'><img class='object-fit-cover w-25' src='media/img/primus.png'></button>
-          <!-- <button class='btn btn-outline-light rounded-3' type='button'><img class='object-fit-cover w-75' src='media/img/tosei.png'></button>
+          <button class='btn btn-outline-light rounded-3' type='button'><img class='object-fit-cover w-75' src='media/img/tosei.png'></button>
           <button class='btn btn-outline-light rounded-3' type='button'><img class='object-fit-cover w-50' src='media/img/lg.png'></button>
           <button class='btn btn-outline-light rounded-3' type='button'><img class='object-fit-cover w-75' src='media/img/speedqueen.png'></button>
-          <button class='btn btn-outline-light rounded-3' type='button'><img class='object-fit-cover w-75' src='media/img/ipso.png'></button> -->
+          <button class='btn btn-outline-light rounded-3' type='button'><img class='object-fit-cover w-75' src='media/img/ipso.png'></button>
         </div>
       </div>
       <div class='row'>

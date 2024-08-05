@@ -48,7 +48,7 @@
               <li class='nav-item'><a class='nav-link active' href='about'>About</a></li>
               <li class='nav-item'><a class='nav-link' href='products'>Products</a></li>
               <li class='nav-item'><a class='nav-link' href='package'>Packages</a></li>
-              <li class='nav-item'><a class='nav-link' href='https://api.mhrtech.my/webhook/4c8b1987-0be2-4794-b038-eded0293eedc/n8n-form' target='_blank'>Contact</a></li>
+              <li class='nav-item'><a class='nav-link' href='https://api.mhrtech.my/webhook/ctc-wss/n8n-form' target='_blank' rel='noopener'>Contact</a></li>
             </ul>
           </div>
         </div>

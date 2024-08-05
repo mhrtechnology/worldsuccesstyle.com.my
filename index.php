@@ -3,8 +3,8 @@
 
   <head>
     <title>WSStyle | home</title>
-    <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap@5/dist/css/bootstrap.min.css' crossorigin='anonymous'>
-    <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap-icons@1/font/bootstrap-icons.min.css' crossorigin='anonymous'>
+    <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap@latest/dist/css/bootstrap.min.css' crossorigin='anonymous'>
+    <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap-icons@latest/font/bootstrap-icons.min.css' crossorigin='anonymous'>
     <script src='https://kit.fontawesome.com/221737b641.js' crossorigin='anonymous'></script>
     <script>
       (function (w, d, s, l, i) {
@@ -175,8 +175,8 @@
       </div>
     </footer>
     <button id='scrollToTop' class='btn position-fixed bottom-0 start-0'><i class='bi-arrow-up-square fs-1'></i></button>
-    <script src='https://cdn.jsdelivr.net/npm/bootstrap@5/dist/js/bootstrap.bundle.min.js' crossorigin='anonymous'></script>
-    <script src='https://cdn.jsdelivr.net/npm/jquery@3/dist/jquery.min.js' crossorigin='anonymous'></script>
+    <script src='https://cdn.jsdelivr.net/npm/bootstrap@latest/dist/js/bootstrap.bundle.min.js' crossorigin='anonymous'></script>
+    <script src='https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js' crossorigin='anonymous'></script>
     <script src='assets/js/sources.js'></script>
     <script src='assets/js/stt.js'></script>
     <!-- <script src='assets/js/theme.js'></script> -->

@@ -64,7 +64,7 @@
        <li class='nav-item'><a class='nav-link' href='about'>About</a></li>
        <li class='nav-item'><a class='nav-link' href='products'>Products</a></li>
        <li class='nav-item'><a class='nav-link' href='package'>Packages</a></li>
-       <li class='nav-item'><a class='nav-link' href='https://api.mhrtech.my/webhook/ctc-wss/n8n-form' target='_blank' rel='noopener'>Contact</a></li>
+       <li class='nav-item'><a class='nav-link' href='https://api.mhrtech.my/form/ctc-wss' target='_blank' rel='noopener'>Contact</a></li>
       </ul>
      </div>
     </div>
